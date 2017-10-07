@@ -6,7 +6,7 @@ https://scholarblogs.emory.edu/582atextmining/2016/09/08/use-of-letters-of-auste
 ### Visualization
 Tool: ggplot2
 
-This week's visualization is about Jane Austen's Pride and Prejudice
+This week's visualization is about Jane Austen's *Pride and Prejudice*
 
 ![Graph1](Output/Rplot.png)
 ![Graph2](Output/Rplot_per.png)
