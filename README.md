@@ -17,7 +17,6 @@ I started with the idea of doing text mining on the early 20th century Japanese 
 
 Two of my articles related to my final project are about [Natsume Soseki](https://scholarblogs.emory.edu/582atextmining/2016/11/29/the-search-for-modernity-and-tradition-in-fifteen-novels-of-natsume-soseki/) and [Historiographical Resarch on Natsume Soseki and Dazai Osamu](https://scholarblogs.emory.edu/582atextmining/2016/11/11/historiographical-research-and-text-analysis-on-natsume-soseki-and-dazai-osamu/)
 
-
 ## Tools and Packages
 
 ### A list of useful R packages for textming and data visulization
@@ -54,3 +53,8 @@ You need [RMeCab](http://rmecab.jp/wiki/index.php?RMeCab), if you want to use Me
 You can use [UniDic](https://sites.google.com/site/rmecab/home/unidic) instead of the default dictionary for better result.
 
 I recommend not to use Windows for Japanese or Chinese text mining with RStudio, because of the encoding problem. The unicode characters do not display well on Windows RStudio. I experienced diffculties and sometimes has to switch encoding between UTF-8 and SHIFT-JIS, but it's not a good practice in general.
+
+
+## Selected Visualization
+![Google Ngram for Natsume Soseki and Murakami Haruki](Final_Project/Final%20Project%20Visualization/Ngram3.PNG)
+Google Ngram
