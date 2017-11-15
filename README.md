@@ -57,8 +57,6 @@ I recommend not to use Windows for Japanese or Chinese text mining with RStudio,
 
 ## Selected Visualization
 Here is selected visualization. See details in [final paper](Final%20Paper%20HIST582A%20Zixuan%20(Armstrong)%20Li.pdf)
-<br><br>
-<br><br>
 
 ![Google Ngram for Natsume Soseki and Murakami Haruki](Final_Project/Final%20Project%20Visualization/Ngram3.PNG)
 
