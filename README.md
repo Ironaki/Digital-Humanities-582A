@@ -2,7 +2,7 @@
 Project of History 582A Digital Humanities at Emory University, Fall 2016
 
 ## Final Paper
-[Final Paper Here](Final%20Paper%20HIST582A%20Zixuan%20(Armstrong)%20Li.pdf)
+[**Final Paper Here**](Final%20Paper%20HIST582A%20Zixuan%20(Armstrong)%20Li.pdf)
 
 The purpose of this course is to incorporate digital humanities methods (Data Visualization, Text Mining and Natural Language Processing) into history research for PhD students. 
 
@@ -56,5 +56,19 @@ I recommend not to use Windows for Japanese or Chinese text mining with RStudio,
 
 
 ## Selected Visualization
+Here is selected visualization. See details in [final paper].(Final%20Paper%20HIST582A%20Zixuan%20(Armstrong)%20Li.pdf)
+
 ![Google Ngram for Natsume Soseki and Murakami Haruki](Final_Project/Final%20Project%20Visualization/Ngram3.PNG)
-Google Ngram
+**Google Ngram for Comparison between Natsume Soseki and Murakami Haruki**
+
+![Frequencies of Words Realated to Modernity](Final%20Project%20Visualization/Gendai.Freq.jpeg)
+**Frequencies of Words Realated to Modernity**
+
+![Frequencies of Key Theme Words](Final_Project/Final%20Project%20Visualization/gunsenaishi.jpeg)
+**Frequencies of Key Theme Words**
+
+![Frequencies of Words Related to Chinese and English](Final_Project/Final%20Project%20Visualization/ENG.CHN.jpeg)
+**Frequencies of Words Related to Chinese and English**
+
+![Kokoro Tf-idf](Final%20Project%20Visualization/All%20Novel%20Tf-idf%20Top5.jpeg)
+**_Kokoro_ Top Tf-idf**
