@@ -1,13 +1,6 @@
 # Digital_Humanities_582A
 Project of History 582A Digital Humanities at Emory University, Fall 2016
 
-## Course Infomation and Site
-[Course Site](http://history.emory.edu/RAVINA/Syllabi/History_582A_2016.htm)
-
-[Blog Site](https://scholarblogs.emory.edu/582atextmining/) for the course.
-
-Two of my articles related to my final project are about [Natsume Soseki](https://scholarblogs.emory.edu/582atextmining/2016/11/29/the-search-for-modernity-and-tradition-in-fifteen-novels-of-natsume-soseki/) and [Historiographical Resarch on Natsume Soseki and Dazai Osamu](https://scholarblogs.emory.edu/582atextmining/2016/11/11/historiographical-research-and-text-analysis-on-natsume-soseki-and-dazai-osamu/)
-
 ## Final Paper
 [Final Paper Here](Final%20Paper%20HIST582A%20Zixuan%20(Armstrong)%20Li.pdf)
 
@@ -16,6 +9,13 @@ The purpose of this course is to incorporate digital humanities methods (Data Vi
 However, I was an undergraduate student, and decided not to pursue further historical research. Therefore, I tried to applied what I learned to a small project. The result is this 25 page paper.
 
 I started with the idea of doing text mining on the early 20th century Japanese Literature, but realized that would be too much for a paper of this length. Therefor after a brief historiographical introduction, I focused on text mining on works of [Natsume Soseki](https://en.wikipedia.org/wiki/Natsume_S%C5%8Dseki) and especially his [*Kokoro*](https://en.wikipedia.org/wiki/Kokoro)
+
+## Course Infomation and Site
+[Course Site](http://history.emory.edu/RAVINA/Syllabi/History_582A_2016.htm)
+
+[Blog Site](https://scholarblogs.emory.edu/582atextmining/)
+
+Two of my articles related to my final project are about [Natsume Soseki](https://scholarblogs.emory.edu/582atextmining/2016/11/29/the-search-for-modernity-and-tradition-in-fifteen-novels-of-natsume-soseki/) and [Historiographical Resarch on Natsume Soseki and Dazai Osamu](https://scholarblogs.emory.edu/582atextmining/2016/11/11/historiographical-research-and-text-analysis-on-natsume-soseki-and-dazai-osamu/)
 
 
 ## Tools and Packages
