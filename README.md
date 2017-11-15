@@ -1,6 +1,13 @@
 # Digital_Humanities_582A
 Project of History 582A Digital Humanities at Emory University, Fall 2016
 
+## Course Infomation and Site
+[Course Site](http://history.emory.edu/RAVINA/Syllabi/History_582A_2016.htm)
+
+[Blog Site](https://scholarblogs.emory.edu/582atextmining/) for the course.
+
+Two of my articles related to my final project are about [Natsume Soseki](https://scholarblogs.emory.edu/582atextmining/2016/11/29/the-search-for-modernity-and-tradition-in-fifteen-novels-of-natsume-soseki/) and [Historiographical Resarch on Natsume Soseki and Dazai Osamu](https://scholarblogs.emory.edu/582atextmining/2016/11/11/historiographical-research-and-text-analysis-on-natsume-soseki-and-dazai-osamu/)
+
 ## Final Paper
 [Final Paper Here](Final%20Paper%20HIST582A%20Zixuan%20(Armstrong)%20Li.pdf)
 
@@ -39,9 +46,11 @@ I started with the idea of doing text mining on the early 20th century Japanese 
 * coreNLP
 * mallet
 
-### Japanese Tokenization
+## Japanese Tokenization
 [MeCab](http://taku910.github.io/mecab/) is what I used for this project.
+
 You need [RMeCab](http://rmecab.jp/wiki/index.php?RMeCab), if you want to use MeCab with R.
+
 You can use [UniDic](https://sites.google.com/site/rmecab/home/unidic) instead of the default dictionary for better result.
 
 I recommend not to use Windows for Japanese or Chinese text mining with RStudio, because of the encoding problem. The unicode characters do not display well on Windows RStudio. I experienced diffculties and sometimes has to switch encoding between UTF-8 and SHIFT-JIS, but it's not a good practice in general.
