@@ -62,7 +62,7 @@ Here is selected visualization. See details in [final paper](Final%20Paper%20HIS
 
 **Google Ngram for Comparison between Natsume Soseki and Murakami Haruki**
 
-![Frequencies of Words Realated to Modernity](Final%20Project%20Visualization/Gendai.Freq.jpeg)
+![Frequencies of Words Realated to Modernity](Final_Project/Final%20Project%20Visualization/Gendai.Freq.jpeg)
 
 **Frequencies of Words Realated to Modernity**
 
@@ -74,6 +74,6 @@ Here is selected visualization. See details in [final paper](Final%20Paper%20HIS
 
 **Frequencies of Words Related to Chinese and English**
 
-![Kokoro Tf-idf](Final%20Project%20Visualization/All%20Novel%20Tf-idf%20Top5.jpeg)
+![Kokoro Tf-idf](Final_Project/Final%20Project%20Visualization/All%20Novel%20Tf-idf%20Top5.jpeg)
 
 **_Kokoro_ Top Tf-idf**
