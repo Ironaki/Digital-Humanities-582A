@@ -38,3 +38,10 @@ I started with the idea of doing text mining on the early 20th century Japanese 
 #### Natural Language Processing
 * coreNLP
 * mallet
+
+### Japanese Tokenization
+[MeCab](http://taku910.github.io/mecab/) is what I used for this project.
+You need [RMeCab](http://rmecab.jp/wiki/index.php?RMeCab), if you want to use MeCab with R.
+You can use [UniDic](https://sites.google.com/site/rmecab/home/unidic) instead of the default dictionary for better result.
+
+I recommend not to use Windows for Japanese or Chinese text mining with RStudio, because of the encoding problem. The unicode characters do not display well on Windows RStudio. I experienced diffculties and sometimes has to switch encoding between UTF-8 and SHIFT-JIS, but it's not a good practice in general.
